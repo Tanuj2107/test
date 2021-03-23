@@ -1,15 +1,16 @@
 const express = require("express");
+const expressLayouts = require("express-ejs-layouts");
 const path = require("path");
 const app = express(); 
 const Register = require("./models/user");
 app.set("view engine", "ejs"); 
 
 const connectDB = require("./db/connect");
+const { mongo } = require("mongoose");
 console.log(connectDB)
 connectDB();
 
 const static_path = path.join(__dirname, "/views");
-
 
 app.use(express.static(static_path))
 app.use(express.static(__dirname + '/public'));
@@ -78,7 +79,7 @@ app.post("/login", async (req, res) => {
         res.status(400).send("Invalid email");
     }
 }); 
-  
+
 const port = process.env.PORT || 3000; 
 app.listen(port, function () { 
     console.log("Server Has Started!"); 

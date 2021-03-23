@@ -1,0 +1,5737 @@
+[{
+  "_id": {
+    "$oid": "603abe465626a6044ca427e8"
+  },
+  "OrderNumber": "10375",
+  "Quantity": "21",
+  "Price Per Piece": "34.91",
+  "SALES": "733.11",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427e9"
+  },
+  "OrderNumber": "10388",
+  "Quantity": "42",
+  "Price Per Piece": "76.36",
+  "SALES": "3207.12",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427ea"
+  },
+  "OrderNumber": "10403",
+  "Quantity": "24",
+  "Price Per Piece": "100",
+  "SALES": "2434.56",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427eb"
+  },
+  "OrderNumber": "10417",
+  "Quantity": "66",
+  "Price Per Piece": "100",
+  "SALES": "7516.08",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427ec"
+  },
+  "OrderNumber": "10369",
+  "Quantity": "41",
+  "Price Per Piece": "100",
+  "SALES": "4514.92",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427ed"
+  },
+  "OrderNumber": "10381",
+  "Quantity": "36",
+  "Price Per Piece": "100",
+  "SALES": "8254.8",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427ee"
+  },
+  "OrderNumber": "10391",
+  "Quantity": "24",
+  "Price Per Piece": "100",
+  "SALES": "2416.56",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427ef"
+  },
+  "OrderNumber": "10411",
+  "Quantity": "23",
+  "Price Per Piece": "100",
+  "SALES": "4140.23",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427f0"
+  },
+  "OrderNumber": "10424",
+  "Quantity": "50",
+  "Price Per Piece": "100",
+  "SALES": "12001",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427f1"
+  },
+  "OrderNumber": "10374",
+  "Quantity": "39",
+  "Price Per Piece": "100",
+  "SALES": "5288.01",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427f2"
+  },
+  "OrderNumber": "10388",
+  "Quantity": "50",
+  "Price Per Piece": "44.51",
+  "SALES": "2225.5",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427f3"
+  },
+  "OrderNumber": "10402",
+  "Quantity": "45",
+  "Price Per Piece": "100",
+  "SALES": "5833.8",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427f4"
+  },
+  "OrderNumber": "10417",
+  "Quantity": "45",
+  "Price Per Piece": "100",
+  "SALES": "5887.35",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427f5"
+  },
+  "OrderNumber": "10362",
+  "Quantity": "22",
+  "Price Per Piece": "100",
+  "SALES": "3664.1",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427f6"
+  },
+  "OrderNumber": "10374",
+  "Quantity": "22",
+  "Price Per Piece": "100",
+  "SALES": "3834.38",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427f7"
+  },
+  "OrderNumber": "10388",
+  "Quantity": "21",
+  "Price Per Piece": "86.77",
+  "SALES": "1822.17",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427f8"
+  },
+  "OrderNumber": "10403",
+  "Quantity": "66",
+  "Price Per Piece": "100",
+  "SALES": "11886.6",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427f9"
+  },
+  "OrderNumber": "10417",
+  "Quantity": "56",
+  "Price Per Piece": "100",
+  "SALES": "9218.16",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427fa"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "39",
+  "Price Per Piece": "100",
+  "SALES": "4046.25",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427fb"
+  },
+  "OrderNumber": "10384",
+  "Quantity": "34",
+  "Price Per Piece": "100",
+  "SALES": "4846.7",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427fc"
+  },
+  "OrderNumber": "10395",
+  "Quantity": "32",
+  "Price Per Piece": "100",
+  "SALES": "3370.56",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427fd"
+  },
+  "OrderNumber": "10400",
+  "Quantity": "64",
+  "Price Per Piece": "100",
+  "SALES": "9661.44",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427fe"
+  },
+  "OrderNumber": "10414",
+  "Quantity": "19",
+  "Price Per Piece": "100",
+  "SALES": "2764.88",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca427ff"
+  },
+  "OrderNumber": "10370",
+  "Quantity": "35",
+  "Price Per Piece": "65.63",
+  "SALES": "2297.05",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42800"
+  },
+  "OrderNumber": "10381",
+  "Quantity": "37",
+  "Price Per Piece": "100",
+  "SALES": "6231.54",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42801"
+  },
+  "OrderNumber": "10391",
+  "Quantity": "37",
+  "Price Per Piece": "46.9",
+  "SALES": "1735.3",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42802"
+  },
+  "OrderNumber": "10411",
+  "Quantity": "27",
+  "Price Per Piece": "100",
+  "SALES": "4427.73",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42803"
+  },
+  "OrderNumber": "10425",
+  "Quantity": "38",
+  "Price Per Piece": "100",
+  "SALES": "5894.94",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42804"
+  },
+  "OrderNumber": "10363",
+  "Quantity": "33",
+  "Price Per Piece": "85.39",
+  "SALES": "2817.87",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42805"
+  },
+  "OrderNumber": "10375",
+  "Quantity": "45",
+  "Price Per Piece": "76",
+  "SALES": "3420",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42806"
+  },
+  "OrderNumber": "10389",
+  "Quantity": "26",
+  "Price Per Piece": "99.04",
+  "SALES": "2575.04",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42807"
+  },
+  "OrderNumber": "10419",
+  "Quantity": "12",
+  "Price Per Piece": "100",
+  "SALES": "1961.28",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42808"
+  },
+  "OrderNumber": "10371",
+  "Quantity": "32",
+  "Price Per Piece": "100",
+  "SALES": "3560.64",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42809"
+  },
+  "OrderNumber": "10382",
+  "Quantity": "34",
+  "Price Per Piece": "100",
+  "SALES": "3823.64",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4280a"
+  },
+  "OrderNumber": "10395",
+  "Quantity": "33",
+  "Price Per Piece": "69.12",
+  "SALES": "2280.96",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4280b"
+  },
+  "OrderNumber": "10413",
+  "Quantity": "36",
+  "Price Per Piece": "100",
+  "SALES": "8677.8",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4280c"
+  },
+  "OrderNumber": "10370",
+  "Quantity": "49",
+  "Price Per Piece": "100",
+  "SALES": "8470.14",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4280d"
+  },
+  "OrderNumber": "10381",
+  "Quantity": "20",
+  "Price Per Piece": "100",
+  "SALES": "2952",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4280e"
+  },
+  "OrderNumber": "10391",
+  "Quantity": "39",
+  "Price Per Piece": "63.2",
+  "SALES": "2464.8",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4280f"
+  },
+  "OrderNumber": "10411",
+  "Quantity": "40",
+  "Price Per Piece": "100",
+  "SALES": "6232",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42810"
+  },
+  "OrderNumber": "10424",
+  "Quantity": "49",
+  "Price Per Piece": "100",
+  "SALES": "7969.36",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42811"
+  },
+  "OrderNumber": "10362",
+  "Quantity": "22",
+  "Price Per Piece": "100",
+  "SALES": "3877.06",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42812"
+  },
+  "OrderNumber": "10375",
+  "Quantity": "49",
+  "Price Per Piece": "78.92",
+  "SALES": "3867.08",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42813"
+  },
+  "OrderNumber": "10388",
+  "Quantity": "44",
+  "Price Per Piece": "100",
+  "SALES": "5951.44",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42814"
+  },
+  "OrderNumber": "10403",
+  "Quantity": "66",
+  "Price Per Piece": "100",
+  "SALES": "8648.64",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42815"
+  },
+  "OrderNumber": "10417",
+  "Quantity": "21",
+  "Price Per Piece": "100",
+  "SALES": "3447.78",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42816"
+  },
+  "OrderNumber": "10372",
+  "Quantity": "40",
+  "Price Per Piece": "100",
+  "SALES": "5862",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42817"
+  },
+  "OrderNumber": "10382",
+  "Quantity": "37",
+  "Price Per Piece": "100",
+  "SALES": "4071.85",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42818"
+  },
+  "OrderNumber": "10413",
+  "Quantity": "47",
+  "Price Per Piece": "100",
+  "SALES": "8236.75",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42819"
+  },
+  "OrderNumber": "10363",
+  "Quantity": "34",
+  "Price Per Piece": "96.73",
+  "SALES": "3288.82",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4281a"
+  },
+  "OrderNumber": "10376",
+  "Quantity": "35",
+  "Price Per Piece": "100",
+  "SALES": "3987.2",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4281b"
+  },
+  "OrderNumber": "10389",
+  "Quantity": "25",
+  "Price Per Piece": "72.38",
+  "SALES": "1809.5",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4281c"
+  },
+  "OrderNumber": "10419",
+  "Quantity": "10",
+  "Price Per Piece": "100",
+  "SALES": "1092.2",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4281d"
+  },
+  "OrderNumber": "10372",
+  "Quantity": "34",
+  "Price Per Piece": "100",
+  "SALES": "5941.5",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4281e"
+  },
+  "OrderNumber": "10382",
+  "Quantity": "34",
+  "Price Per Piece": "95.35",
+  "SALES": "3241.9",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4281f"
+  },
+  "OrderNumber": "10396",
+  "Quantity": "33",
+  "Price Per Piece": "100",
+  "SALES": "6109.29",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42820"
+  },
+  "OrderNumber": "10413",
+  "Quantity": "22",
+  "Price Per Piece": "100",
+  "SALES": "3387.78",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42821"
+  },
+  "OrderNumber": "10363",
+  "Quantity": "34",
+  "Price Per Piece": "81.62",
+  "SALES": "2775.08",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42822"
+  },
+  "OrderNumber": "10377",
+  "Quantity": "24",
+  "Price Per Piece": "67.83",
+  "SALES": "1627.92",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42823"
+  },
+  "OrderNumber": "10389",
+  "Quantity": "36",
+  "Price Per Piece": "70.26",
+  "SALES": "2529.36",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42824"
+  },
+  "OrderNumber": "10419",
+  "Quantity": "34",
+  "Price Per Piece": "90.17",
+  "SALES": "3065.78",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42825"
+  },
+  "OrderNumber": "10371",
+  "Quantity": "49",
+  "Price Per Piece": "35.71",
+  "SALES": "1749.79",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42826"
+  },
+  "OrderNumber": "10382",
+  "Quantity": "32",
+  "Price Per Piece": "66.58",
+  "SALES": "2130.56",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42827"
+  },
+  "OrderNumber": "10412",
+  "Quantity": "54",
+  "Price Per Piece": "100",
+  "SALES": "5951.34",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42828"
+  },
+  "OrderNumber": "10425",
+  "Quantity": "33",
+  "Price Per Piece": "100",
+  "SALES": "4692.6",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42829"
+  },
+  "OrderNumber": "10363",
+  "Quantity": "46",
+  "Price Per Piece": "88.45",
+  "SALES": "4068.7",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4282a"
+  },
+  "OrderNumber": "10377",
+  "Quantity": "50",
+  "Price Per Piece": "100",
+  "SALES": "5182",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4282b"
+  },
+  "OrderNumber": "10389",
+  "Quantity": "47",
+  "Price Per Piece": "100",
+  "SALES": "5243.79",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4282c"
+  },
+  "OrderNumber": "10405",
+  "Quantity": "97",
+  "Price Per Piece": "93.28",
+  "SALES": "9048.16",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4282d"
+  },
+  "OrderNumber": "10419",
+  "Quantity": "32",
+  "Price Per Piece": "100",
+  "SALES": "3832.64",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4282e"
+  },
+  "OrderNumber": "10370",
+  "Quantity": "27",
+  "Price Per Piece": "100",
+  "SALES": "3911.49",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4282f"
+  },
+  "OrderNumber": "10381",
+  "Quantity": "48",
+  "Price Per Piece": "98",
+  "SALES": "4704",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42830"
+  },
+  "OrderNumber": "10391",
+  "Quantity": "29",
+  "Price Per Piece": "85.1",
+  "SALES": "2467.9",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42831"
+  },
+  "OrderNumber": "10411",
+  "Quantity": "27",
+  "Price Per Piece": "100",
+  "SALES": "3213",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42832"
+  },
+  "OrderNumber": "10424",
+  "Quantity": "54",
+  "Price Per Piece": "100",
+  "SALES": "7182",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42833"
+  },
+  "OrderNumber": "10365",
+  "Quantity": "30",
+  "Price Per Piece": "87.06",
+  "SALES": "2611.8",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42834"
+  },
+  "OrderNumber": "10377",
+  "Quantity": "35",
+  "Price Per Piece": "100",
+  "SALES": "5895.05",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42835"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "36",
+  "Price Per Piece": "93.77",
+  "SALES": "3375.72",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42836"
+  },
+  "OrderNumber": "10406",
+  "Quantity": "61",
+  "Price Per Piece": "100",
+  "SALES": "8374.69",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42837"
+  },
+  "OrderNumber": "10419",
+  "Quantity": "38",
+  "Price Per Piece": "100",
+  "SALES": "4464.24",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42838"
+  },
+  "OrderNumber": "10369",
+  "Quantity": "44",
+  "Price Per Piece": "100",
+  "SALES": "9240.44",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42839"
+  },
+  "OrderNumber": "10380",
+  "Quantity": "27",
+  "Price Per Piece": "93.16",
+  "SALES": "2515.32",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4283a"
+  },
+  "OrderNumber": "10391",
+  "Quantity": "35",
+  "Price Per Piece": "100",
+  "SALES": "5548.9",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4283b"
+  },
+  "OrderNumber": "10422",
+  "Quantity": "51",
+  "Price Per Piece": "95.55",
+  "SALES": "4873.05",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4283c"
+  },
+  "OrderNumber": "10369",
+  "Quantity": "32",
+  "Price Per Piece": "98.63",
+  "SALES": "3156.16",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4283d"
+  },
+  "OrderNumber": "10381",
+  "Quantity": "25",
+  "Price Per Piece": "52.83",
+  "SALES": "1320.75",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4283e"
+  },
+  "OrderNumber": "10391",
+  "Quantity": "42",
+  "Price Per Piece": "100",
+  "SALES": "4998",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4283f"
+  },
+  "OrderNumber": "10422",
+  "Quantity": "25",
+  "Price Per Piece": "51.75",
+  "SALES": "1293.75",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42840"
+  },
+  "OrderNumber": "10367",
+  "Quantity": "49",
+  "Price Per Piece": "56.3",
+  "SALES": "2758.7",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42841"
+  },
+  "OrderNumber": "10378",
+  "Quantity": "34",
+  "Price Per Piece": "42.64",
+  "SALES": "1449.76",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42842"
+  },
+  "OrderNumber": "10407",
+  "Quantity": "59",
+  "Price Per Piece": "100",
+  "SALES": "7048.14",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42843"
+  },
+  "OrderNumber": "10419",
+  "Quantity": "37",
+  "Price Per Piece": "100",
+  "SALES": "5202.94",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42844"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "28",
+  "Price Per Piece": "57.55",
+  "SALES": "1611.4",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42845"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "25",
+  "Price Per Piece": "54.57",
+  "SALES": "1364.25",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42846"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "33",
+  "Price Per Piece": "100",
+  "SALES": "4215.09",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42847"
+  },
+  "OrderNumber": "10400",
+  "Quantity": "34",
+  "Price Per Piece": "100",
+  "SALES": "6433.82",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42848"
+  },
+  "OrderNumber": "10416",
+  "Quantity": "24",
+  "Price Per Piece": "100",
+  "SALES": "4352.16",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42849"
+  },
+  "OrderNumber": "10367",
+  "Quantity": "37",
+  "Price Per Piece": "100",
+  "SALES": "4703.81",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4284a"
+  },
+  "OrderNumber": "10379",
+  "Quantity": "39",
+  "Price Per Piece": "100",
+  "SALES": "5399.55",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4284b"
+  },
+  "OrderNumber": "10407",
+  "Quantity": "76",
+  "Price Per Piece": "100",
+  "SALES": "14082.8",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4284c"
+  },
+  "OrderNumber": "10420",
+  "Quantity": "37",
+  "Price Per Piece": "100",
+  "SALES": "5283.6",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4284d"
+  },
+  "OrderNumber": "10363",
+  "Quantity": "22",
+  "Price Per Piece": "100",
+  "SALES": "3686.54",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4284e"
+  },
+  "OrderNumber": "10377",
+  "Quantity": "31",
+  "Price Per Piece": "67.76",
+  "SALES": "2100.56",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4284f"
+  },
+  "OrderNumber": "10389",
+  "Quantity": "49",
+  "Price Per Piece": "79.22",
+  "SALES": "3881.78",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42850"
+  },
+  "OrderNumber": "10405",
+  "Quantity": "61",
+  "Price Per Piece": "73.92",
+  "SALES": "4509.12",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42851"
+  },
+  "OrderNumber": "10419",
+  "Quantity": "39",
+  "Price Per Piece": "83.93",
+  "SALES": "3273.27",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42852"
+  },
+  "OrderNumber": "10366",
+  "Quantity": "34",
+  "Price Per Piece": "100",
+  "SALES": "4207.84",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42853"
+  },
+  "OrderNumber": "10377",
+  "Quantity": "36",
+  "Price Per Piece": "100",
+  "SALES": "4352.76",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42854"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "34",
+  "Price Per Piece": "43.05",
+  "SALES": "1463.7",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42855"
+  },
+  "OrderNumber": "10406",
+  "Quantity": "48",
+  "Price Per Piece": "100",
+  "SALES": "7169.28",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42856"
+  },
+  "OrderNumber": "10419",
+  "Quantity": "34",
+  "Price Per Piece": "100",
+  "SALES": "4594.76",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42857"
+  },
+  "OrderNumber": "10371",
+  "Quantity": "25",
+  "Price Per Piece": "100",
+  "SALES": "2602.25",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42858"
+  },
+  "OrderNumber": "10382",
+  "Quantity": "25",
+  "Price Per Piece": "88",
+  "SALES": "2200",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42859"
+  },
+  "OrderNumber": "10412",
+  "Quantity": "41",
+  "Price Per Piece": "100",
+  "SALES": "6712.93",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4285a"
+  },
+  "OrderNumber": "10425",
+  "Quantity": "28",
+  "Price Per Piece": "100",
+  "SALES": "5318.04",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4285b"
+  },
+  "OrderNumber": "10367",
+  "Quantity": "45",
+  "Price Per Piece": "100",
+  "SALES": "8884.8",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4285c"
+  },
+  "OrderNumber": "10379",
+  "Quantity": "27",
+  "Price Per Piece": "49.3",
+  "SALES": "1331.1",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4285d"
+  },
+  "OrderNumber": "10407",
+  "Quantity": "42",
+  "Price Per Piece": "72.65",
+  "SALES": "3051.3",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4285e"
+  },
+  "OrderNumber": "10420",
+  "Quantity": "36",
+  "Price Per Piece": "63.57",
+  "SALES": "2288.52",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4285f"
+  },
+  "OrderNumber": "10370",
+  "Quantity": "22",
+  "Price Per Piece": "100",
+  "SALES": "3949",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42860"
+  },
+  "OrderNumber": "10383",
+  "Quantity": "27",
+  "Price Per Piece": "100",
+  "SALES": "3843.99",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42861"
+  },
+  "OrderNumber": "10412",
+  "Quantity": "56",
+  "Price Per Piece": "98.18",
+  "SALES": "5498.08",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42862"
+  },
+  "OrderNumber": "10425",
+  "Quantity": "38",
+  "Price Per Piece": "99.41",
+  "SALES": "3777.58",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42863"
+  },
+  "OrderNumber": "10367",
+  "Quantity": "27",
+  "Price Per Piece": "100",
+  "SALES": "4196.07",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42864"
+  },
+  "OrderNumber": "10380",
+  "Quantity": "40",
+  "Price Per Piece": "100",
+  "SALES": "4931.6",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42865"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "31",
+  "Price Per Piece": "98.99",
+  "SALES": "3068.69",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42866"
+  },
+  "OrderNumber": "10409",
+  "Quantity": "6",
+  "Price Per Piece": "100",
+  "SALES": "785.64",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42867"
+  },
+  "OrderNumber": "10420",
+  "Quantity": "45",
+  "Price Per Piece": "100",
+  "SALES": "4977",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42868"
+  },
+  "OrderNumber": "10370",
+  "Quantity": "22",
+  "Price Per Piece": "96.86",
+  "SALES": "2130.92",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42869"
+  },
+  "OrderNumber": "10381",
+  "Quantity": "35",
+  "Price Per Piece": "48.62",
+  "SALES": "1701.7",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4286a"
+  },
+  "OrderNumber": "10391",
+  "Quantity": "44",
+  "Price Per Piece": "38.5",
+  "SALES": "1694",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4286b"
+  },
+  "OrderNumber": "10412",
+  "Quantity": "47",
+  "Price Per Piece": "61.99",
+  "SALES": "2913.53",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4286c"
+  },
+  "OrderNumber": "10425",
+  "Quantity": "19",
+  "Price Per Piece": "49.22",
+  "SALES": "935.18",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4286d"
+  },
+  "OrderNumber": "10374",
+  "Quantity": "42",
+  "Price Per Piece": "69.27",
+  "SALES": "2909.34",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4286e"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "21",
+  "Price Per Piece": "74.77",
+  "SALES": "1570.17",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4286f"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "34",
+  "Price Per Piece": "76.88",
+  "SALES": "2613.92",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42870"
+  },
+  "OrderNumber": "10401",
+  "Quantity": "42",
+  "Price Per Piece": "76.03",
+  "SALES": "3193.26",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42871"
+  },
+  "OrderNumber": "10416",
+  "Quantity": "15",
+  "Price Per Piece": "98.84",
+  "SALES": "1482.6",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42872"
+  },
+  "OrderNumber": "10362",
+  "Quantity": "23",
+  "Price Per Piece": "49.67",
+  "SALES": "1142.41",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42873"
+  },
+  "OrderNumber": "10374",
+  "Quantity": "22",
+  "Price Per Piece": "53.3",
+  "SALES": "1172.6",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42874"
+  },
+  "OrderNumber": "10389",
+  "Quantity": "39",
+  "Price Per Piece": "100",
+  "SALES": "6981",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42875"
+  },
+  "OrderNumber": "10402",
+  "Quantity": "55",
+  "Price Per Piece": "55.72",
+  "SALES": "3064.6",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42876"
+  },
+  "OrderNumber": "10417",
+  "Quantity": "36",
+  "Price Per Piece": "61.18",
+  "SALES": "2202.48",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42877"
+  },
+  "OrderNumber": "10367",
+  "Quantity": "32",
+  "Price Per Piece": "94.79",
+  "SALES": "3033.28",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42878"
+  },
+  "OrderNumber": "10380",
+  "Quantity": "21",
+  "Price Per Piece": "47.18",
+  "SALES": "990.78",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42879"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "26",
+  "Price Per Piece": "78.11",
+  "SALES": "2030.86",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4287a"
+  },
+  "OrderNumber": "10421",
+  "Quantity": "35",
+  "Price Per Piece": "100",
+  "SALES": "5433.75",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4287b"
+  },
+  "OrderNumber": "10366",
+  "Quantity": "49",
+  "Price Per Piece": "100",
+  "SALES": "6144.6",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4287c"
+  },
+  "OrderNumber": "10379",
+  "Quantity": "29",
+  "Price Per Piece": "100",
+  "SALES": "5127.2",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4287d"
+  },
+  "OrderNumber": "10407",
+  "Quantity": "41",
+  "Price Per Piece": "100",
+  "SALES": "6386.16",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4287e"
+  },
+  "OrderNumber": "10419",
+  "Quantity": "55",
+  "Price Per Piece": "100",
+  "SALES": "7695.6",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4287f"
+  },
+  "OrderNumber": "10369",
+  "Quantity": "42",
+  "Price Per Piece": "100",
+  "SALES": "4581.36",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42880"
+  },
+  "OrderNumber": "10381",
+  "Quantity": "41",
+  "Price Per Piece": "100",
+  "SALES": "4319.76",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42881"
+  },
+  "OrderNumber": "10391",
+  "Quantity": "32",
+  "Price Per Piece": "45.25",
+  "SALES": "1448",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42882"
+  },
+  "OrderNumber": "10423",
+  "Quantity": "10",
+  "Price Per Piece": "88.14",
+  "SALES": "881.4",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42883"
+  },
+  "OrderNumber": "10369",
+  "Quantity": "28",
+  "Price Per Piece": "44.21",
+  "SALES": "1237.88",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42884"
+  },
+  "OrderNumber": "10381",
+  "Quantity": "40",
+  "Price Per Piece": "68.08",
+  "SALES": "2723.2",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42885"
+  },
+  "OrderNumber": "10392",
+  "Quantity": "37",
+  "Price Per Piece": "59.96",
+  "SALES": "2218.52",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42886"
+  },
+  "OrderNumber": "10423",
+  "Quantity": "31",
+  "Price Per Piece": "53.72",
+  "SALES": "1665.32",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42887"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "22",
+  "Price Per Piece": "86.74",
+  "SALES": "1908.28",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42888"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "37",
+  "Price Per Piece": "93.01",
+  "SALES": "3441.37",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42889"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "28",
+  "Price Per Piece": "72.26",
+  "SALES": "2023.28",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4288a"
+  },
+  "OrderNumber": "10400",
+  "Quantity": "30",
+  "Price Per Piece": "74.84",
+  "SALES": "2245.2",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4288b"
+  },
+  "OrderNumber": "10414",
+  "Quantity": "44",
+  "Price Per Piece": "73.98",
+  "SALES": "3255.12",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4288c"
+  },
+  "OrderNumber": "10369",
+  "Quantity": "21",
+  "Price Per Piece": "94.22",
+  "SALES": "1978.62",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4288d"
+  },
+  "OrderNumber": "10381",
+  "Quantity": "35",
+  "Price Per Piece": "100",
+  "SALES": "4288.2",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4288e"
+  },
+  "OrderNumber": "10392",
+  "Quantity": "29",
+  "Price Per Piece": "86.92",
+  "SALES": "2520.68",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4288f"
+  },
+  "OrderNumber": "10423",
+  "Quantity": "21",
+  "Price Per Piece": "84.82",
+  "SALES": "1781.22",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42890"
+  },
+  "OrderNumber": "10372",
+  "Quantity": "28",
+  "Price Per Piece": "100",
+  "SALES": "3862.88",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42891"
+  },
+  "OrderNumber": "10383",
+  "Quantity": "24",
+  "Price Per Piece": "61.52",
+  "SALES": "1476.48",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42892"
+  },
+  "OrderNumber": "10396",
+  "Quantity": "33",
+  "Price Per Piece": "100",
+  "SALES": "5273.73",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42893"
+  },
+  "OrderNumber": "10414",
+  "Quantity": "41",
+  "Price Per Piece": "100",
+  "SALES": "4872.03",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42894"
+  },
+  "OrderNumber": "10366",
+  "Quantity": "34",
+  "Price Per Piece": "100",
+  "SALES": "6275.72",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42895"
+  },
+  "OrderNumber": "10370",
+  "Quantity": "27",
+  "Price Per Piece": "56.85",
+  "SALES": "1534.95",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42896"
+  },
+  "OrderNumber": "10377",
+  "Quantity": "39",
+  "Price Per Piece": "100",
+  "SALES": "7264.53",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42897"
+  },
+  "OrderNumber": "10383",
+  "Quantity": "47",
+  "Price Per Piece": "100",
+  "SALES": "6869.05",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42898"
+  },
+  "OrderNumber": "10394",
+  "Quantity": "22",
+  "Price Per Piece": "100",
+  "SALES": "3353.02",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42899"
+  },
+  "OrderNumber": "10405",
+  "Quantity": "55",
+  "Price Per Piece": "100",
+  "SALES": "8289.05",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4289a"
+  },
+  "OrderNumber": "10412",
+  "Quantity": "60",
+  "Price Per Piece": "100",
+  "SALES": "11887.8",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4289b"
+  },
+  "OrderNumber": "10419",
+  "Quantity": "35",
+  "Price Per Piece": "100",
+  "SALES": "5926.9",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4289c"
+  },
+  "OrderNumber": "10425",
+  "Quantity": "28",
+  "Price Per Piece": "100",
+  "SALES": "3793.16",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4289d"
+  },
+  "OrderNumber": "10372",
+  "Quantity": "25",
+  "Price Per Piece": "84.71",
+  "SALES": "2117.75",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trains",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4289e"
+  },
+  "OrderNumber": "10383",
+  "Quantity": "26",
+  "Price Per Piece": "100",
+  "SALES": "3340.48",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trains",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4289f"
+  },
+  "OrderNumber": "10396",
+  "Quantity": "24",
+  "Price Per Piece": "89.75",
+  "SALES": "2154",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trains",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428a0"
+  },
+  "OrderNumber": "10414",
+  "Quantity": "48",
+  "Price Per Piece": "100",
+  "SALES": "5808.48",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trains",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428a1"
+  },
+  "OrderNumber": "10363",
+  "Quantity": "46",
+  "Price Per Piece": "60.3",
+  "SALES": "2773.8",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428a2"
+  },
+  "OrderNumber": "10378",
+  "Quantity": "22",
+  "Price Per Piece": "100",
+  "SALES": "2464",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428a3"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "40",
+  "Price Per Piece": "100",
+  "SALES": "5491.6",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428a4"
+  },
+  "OrderNumber": "10369",
+  "Quantity": "45",
+  "Price Per Piece": "73.08",
+  "SALES": "3288.6",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428a5"
+  },
+  "OrderNumber": "10382",
+  "Quantity": "50",
+  "Price Per Piece": "100",
+  "SALES": "8935.5",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428a6"
+  },
+  "OrderNumber": "10392",
+  "Quantity": "36",
+  "Price Per Piece": "100",
+  "SALES": "4035.96",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428a7"
+  },
+  "OrderNumber": "10423",
+  "Quantity": "21",
+  "Price Per Piece": "89.29",
+  "SALES": "1875.09",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428a8"
+  },
+  "OrderNumber": "10363",
+  "Quantity": "24",
+  "Price Per Piece": "100",
+  "SALES": "4142.64",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428a9"
+  },
+  "OrderNumber": "10378",
+  "Quantity": "43",
+  "Price Per Piece": "96.49",
+  "SALES": "4149.07",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428aa"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "50",
+  "Price Per Piece": "100",
+  "SALES": "7397",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428ab"
+  },
+  "OrderNumber": "10367",
+  "Quantity": "46",
+  "Price Per Piece": "100",
+  "SALES": "4808.38",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428ac"
+  },
+  "OrderNumber": "10379",
+  "Quantity": "32",
+  "Price Per Piece": "70.83",
+  "SALES": "2266.56",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428ad"
+  },
+  "OrderNumber": "10406",
+  "Quantity": "65",
+  "Price Per Piece": "100",
+  "SALES": "10468.9",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428ae"
+  },
+  "OrderNumber": "10419",
+  "Quantity": "43",
+  "Price Per Piece": "100",
+  "SALES": "5589.14",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428af"
+  },
+  "OrderNumber": "10363",
+  "Quantity": "32",
+  "Price Per Piece": "89.12",
+  "SALES": "2851.84",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428b0"
+  },
+  "OrderNumber": "10378",
+  "Quantity": "28",
+  "Price Per Piece": "100",
+  "SALES": "4609.64",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428b1"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "36",
+  "Price Per Piece": "100",
+  "SALES": "5079.96",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428b2"
+  },
+  "OrderNumber": "10403",
+  "Quantity": "36",
+  "Price Per Piece": "52.22",
+  "SALES": "1879.92",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428b3"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "50",
+  "Price Per Piece": "60.49",
+  "SALES": "3024.5",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428b4"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "22",
+  "Price Per Piece": "57.55",
+  "SALES": "1266.1",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428b5"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "45",
+  "Price Per Piece": "100",
+  "SALES": "4811.85",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428b6"
+  },
+  "OrderNumber": "10400",
+  "Quantity": "58",
+  "Price Per Piece": "100",
+  "SALES": "7307.42",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428b7"
+  },
+  "OrderNumber": "10415",
+  "Quantity": "51",
+  "Price Per Piece": "100",
+  "SALES": "6209.25",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428b8"
+  },
+  "OrderNumber": "10372",
+  "Quantity": "48",
+  "Price Per Piece": "100",
+  "SALES": "7031.52",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428b9"
+  },
+  "OrderNumber": "10383",
+  "Quantity": "38",
+  "Price Per Piece": "100",
+  "SALES": "5340.9",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428ba"
+  },
+  "OrderNumber": "10394",
+  "Quantity": "37",
+  "Price Per Piece": "100",
+  "SALES": "6376.58",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428bb"
+  },
+  "OrderNumber": "10413",
+  "Quantity": "49",
+  "Price Per Piece": "100",
+  "SALES": "6896.75",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428bc"
+  },
+  "OrderNumber": "10367",
+  "Quantity": "43",
+  "Price Per Piece": "62.72",
+  "SALES": "2696.96",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428bd"
+  },
+  "OrderNumber": "10380",
+  "Quantity": "32",
+  "Price Per Piece": "100",
+  "SALES": "3376.64",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428be"
+  },
+  "OrderNumber": "10407",
+  "Quantity": "6",
+  "Price Per Piece": "90.19",
+  "SALES": "541.14",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428bf"
+  },
+  "OrderNumber": "10420",
+  "Quantity": "66",
+  "Price Per Piece": "92.95",
+  "SALES": "6134.7",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428c0"
+  },
+  "OrderNumber": "10372",
+  "Quantity": "41",
+  "Price Per Piece": "86.89",
+  "SALES": "3562.49",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428c1"
+  },
+  "OrderNumber": "10383",
+  "Quantity": "28",
+  "Price Per Piece": "58.58",
+  "SALES": "1640.24",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428c2"
+  },
+  "OrderNumber": "10396",
+  "Quantity": "45",
+  "Price Per Piece": "100",
+  "SALES": "4739.4",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428c3"
+  },
+  "OrderNumber": "10414",
+  "Quantity": "16",
+  "Price Per Piece": "75.48",
+  "SALES": "1207.68",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428c4"
+  },
+  "OrderNumber": "10370",
+  "Quantity": "29",
+  "Price Per Piece": "57.53",
+  "SALES": "1668.37",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428c5"
+  },
+  "OrderNumber": "10382",
+  "Quantity": "39",
+  "Price Per Piece": "100",
+  "SALES": "4890.6",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428c6"
+  },
+  "OrderNumber": "10411",
+  "Quantity": "46",
+  "Price Per Piece": "100",
+  "SALES": "5235.72",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428c7"
+  },
+  "OrderNumber": "10425",
+  "Quantity": "38",
+  "Price Per Piece": "100",
+  "SALES": "4325.16",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428c8"
+  },
+  "OrderNumber": "10370",
+  "Quantity": "20",
+  "Price Per Piece": "100",
+  "SALES": "2730",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428c9"
+  },
+  "OrderNumber": "10382",
+  "Quantity": "39",
+  "Price Per Piece": "100",
+  "SALES": "7827.3",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428ca"
+  },
+  "OrderNumber": "10411",
+  "Quantity": "35",
+  "Price Per Piece": "59.87",
+  "SALES": "2095.45",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428cb"
+  },
+  "OrderNumber": "10424",
+  "Quantity": "26",
+  "Price Per Piece": "59.87",
+  "SALES": "1556.62",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428cc"
+  },
+  "OrderNumber": "10363",
+  "Quantity": "28",
+  "Price Per Piece": "58.18",
+  "SALES": "1629.04",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428cd"
+  },
+  "OrderNumber": "10378",
+  "Quantity": "49",
+  "Price Per Piece": "67.14",
+  "SALES": "3289.86",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428ce"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "49",
+  "Price Per Piece": "100",
+  "SALES": "6862.94",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428cf"
+  },
+  "OrderNumber": "10367",
+  "Quantity": "44",
+  "Price Per Piece": "85.25",
+  "SALES": "3751",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428d0"
+  },
+  "OrderNumber": "10380",
+  "Quantity": "24",
+  "Price Per Piece": "100",
+  "SALES": "4536",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428d1"
+  },
+  "OrderNumber": "10407",
+  "Quantity": "66",
+  "Price Per Piece": "66.99",
+  "SALES": "4421.34",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428d2"
+  },
+  "OrderNumber": "10420",
+  "Quantity": "36",
+  "Price Per Piece": "57.73",
+  "SALES": "2078.28",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428d3"
+  },
+  "OrderNumber": "10367",
+  "Quantity": "21",
+  "Price Per Piece": "60.37",
+  "SALES": "1267.77",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428d4"
+  },
+  "OrderNumber": "10380",
+  "Quantity": "34",
+  "Price Per Piece": "100",
+  "SALES": "3441.82",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428d5"
+  },
+  "OrderNumber": "10407",
+  "Quantity": "26",
+  "Price Per Piece": "76.43",
+  "SALES": "1987.18",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428d6"
+  },
+  "OrderNumber": "10420",
+  "Quantity": "60",
+  "Price Per Piece": "64.67",
+  "SALES": "3880.2",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428d7"
+  },
+  "OrderNumber": "10371",
+  "Quantity": "25",
+  "Price Per Piece": "97.27",
+  "SALES": "2431.75",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428d8"
+  },
+  "OrderNumber": "10383",
+  "Quantity": "22",
+  "Price Per Piece": "91.76",
+  "SALES": "2018.72",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428d9"
+  },
+  "OrderNumber": "10394",
+  "Quantity": "31",
+  "Price Per Piece": "50.29",
+  "SALES": "1558.99",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428da"
+  },
+  "OrderNumber": "10412",
+  "Quantity": "21",
+  "Price Per Piece": "52.6",
+  "SALES": "1104.6",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428db"
+  },
+  "OrderNumber": "10425",
+  "Quantity": "55",
+  "Price Per Piece": "46.82",
+  "SALES": "2575.1",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428dc"
+  },
+  "OrderNumber": "10362",
+  "Quantity": "50",
+  "Price Per Piece": "96.92",
+  "SALES": "4846",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428dd"
+  },
+  "OrderNumber": "10374",
+  "Quantity": "38",
+  "Price Per Piece": "100",
+  "SALES": "4197.1",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428de"
+  },
+  "OrderNumber": "10389",
+  "Quantity": "45",
+  "Price Per Piece": "100",
+  "SALES": "4597.65",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428df"
+  },
+  "OrderNumber": "10403",
+  "Quantity": "46",
+  "Price Per Piece": "100",
+  "SALES": "5287.7",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428e0"
+  },
+  "OrderNumber": "10417",
+  "Quantity": "35",
+  "Price Per Piece": "100",
+  "SALES": "3550.05",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428e1"
+  },
+  "OrderNumber": "10367",
+  "Quantity": "38",
+  "Price Per Piece": "38.5",
+  "SALES": "1463",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428e2"
+  },
+  "OrderNumber": "10379",
+  "Quantity": "32",
+  "Price Per Piece": "100",
+  "SALES": "3970.56",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428e3"
+  },
+  "OrderNumber": "10407",
+  "Quantity": "64",
+  "Price Per Piece": "40.25",
+  "SALES": "2576",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428e4"
+  },
+  "OrderNumber": "10420",
+  "Quantity": "37",
+  "Price Per Piece": "60.37",
+  "SALES": "2233.69",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428e5"
+  },
+  "OrderNumber": "10374",
+  "Quantity": "46",
+  "Price Per Piece": "94.1",
+  "SALES": "4328.6",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428e6"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "33",
+  "Price Per Piece": "41.71",
+  "SALES": "1376.43",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428e7"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "43",
+  "Price Per Piece": "100",
+  "SALES": "5552.16",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428e8"
+  },
+  "OrderNumber": "10401",
+  "Quantity": "38",
+  "Price Per Piece": "96.29",
+  "SALES": "3659.02",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428e9"
+  },
+  "OrderNumber": "10416",
+  "Quantity": "47",
+  "Price Per Piece": "88.63",
+  "SALES": "4165.61",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428ea"
+  },
+  "OrderNumber": "10367",
+  "Quantity": "23",
+  "Price Per Piece": "36.29",
+  "SALES": "834.67",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428eb"
+  },
+  "OrderNumber": "10380",
+  "Quantity": "32",
+  "Price Per Piece": "70.56",
+  "SALES": "2257.92",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428ec"
+  },
+  "OrderNumber": "10391",
+  "Quantity": "33",
+  "Price Per Piece": "100",
+  "SALES": "8344.71",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428ed"
+  },
+  "OrderNumber": "10409",
+  "Quantity": "61",
+  "Price Per Piece": "29.54",
+  "SALES": "1801.94",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428ee"
+  },
+  "OrderNumber": "10420",
+  "Quantity": "45",
+  "Price Per Piece": "26.88",
+  "SALES": "1209.6",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428ef"
+  },
+  "OrderNumber": "10363",
+  "Quantity": "21",
+  "Price Per Piece": "100",
+  "SALES": "3595.62",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428f0"
+  },
+  "OrderNumber": "10375",
+  "Quantity": "23",
+  "Price Per Piece": "100",
+  "SALES": "2443.29",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428f1"
+  },
+  "OrderNumber": "10389",
+  "Quantity": "49",
+  "Price Per Piece": "81.4",
+  "SALES": "3988.6",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428f2"
+  },
+  "OrderNumber": "10402",
+  "Quantity": "59",
+  "Price Per Piece": "87.6",
+  "SALES": "5168.4",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428f3"
+  },
+  "OrderNumber": "10416",
+  "Quantity": "32",
+  "Price Per Piece": "87.6",
+  "SALES": "2803.2",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428f4"
+  },
+  "OrderNumber": "10372",
+  "Quantity": "37",
+  "Price Per Piece": "100",
+  "SALES": "3910.53",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428f5"
+  },
+  "OrderNumber": "10384",
+  "Quantity": "28",
+  "Price Per Piece": "80.54",
+  "SALES": "2255.12",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428f6"
+  },
+  "OrderNumber": "10396",
+  "Quantity": "49",
+  "Price Per Piece": "100",
+  "SALES": "5720.75",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428f7"
+  },
+  "OrderNumber": "10414",
+  "Quantity": "23",
+  "Price Per Piece": "100",
+  "SALES": "3335.23",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428f8"
+  },
+  "OrderNumber": "10367",
+  "Quantity": "28",
+  "Price Per Piece": "30.59",
+  "SALES": "856.52",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428f9"
+  },
+  "OrderNumber": "10380",
+  "Quantity": "27",
+  "Price Per Piece": "68.35",
+  "SALES": "1845.45",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428fa"
+  },
+  "OrderNumber": "10391",
+  "Quantity": "24",
+  "Price Per Piece": "100",
+  "SALES": "4042.08",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428fb"
+  },
+  "OrderNumber": "10421",
+  "Quantity": "40",
+  "Price Per Piece": "45.7",
+  "SALES": "1828",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428fc"
+  },
+  "OrderNumber": "10371",
+  "Quantity": "20",
+  "Price Per Piece": "100",
+  "SALES": "3449.4",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428fd"
+  },
+  "OrderNumber": "10382",
+  "Quantity": "20",
+  "Price Per Piece": "100",
+  "SALES": "2654.4",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428fe"
+  },
+  "OrderNumber": "10412",
+  "Quantity": "70",
+  "Price Per Piece": "100",
+  "SALES": "8498",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca428ff"
+  },
+  "OrderNumber": "10425",
+  "Quantity": "49",
+  "Price Per Piece": "100",
+  "SALES": "5510.54",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42900"
+  },
+  "OrderNumber": "10363",
+  "Quantity": "43",
+  "Price Per Piece": "61.23",
+  "SALES": "2632.89",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42901"
+  },
+  "OrderNumber": "10375",
+  "Quantity": "20",
+  "Price Per Piece": "100",
+  "SALES": "2046",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42902"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "35",
+  "Price Per Piece": "65.13",
+  "SALES": "2279.55",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42903"
+  },
+  "OrderNumber": "10403",
+  "Quantity": "27",
+  "Price Per Piece": "79.65",
+  "SALES": "2150.55",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42904"
+  },
+  "OrderNumber": "10368",
+  "Quantity": "40",
+  "Price Per Piece": "100",
+  "SALES": "4107.2",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42905"
+  },
+  "OrderNumber": "10380",
+  "Quantity": "36",
+  "Price Per Piece": "37.5",
+  "SALES": "1350",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42906"
+  },
+  "OrderNumber": "10407",
+  "Quantity": "76",
+  "Price Per Piece": "94.5",
+  "SALES": "7182",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42907"
+  },
+  "OrderNumber": "10420",
+  "Quantity": "39",
+  "Price Per Piece": "100",
+  "SALES": "3933.93",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42908"
+  },
+  "OrderNumber": "10371",
+  "Quantity": "45",
+  "Price Per Piece": "100",
+  "SALES": "5545.8",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42909"
+  },
+  "OrderNumber": "10383",
+  "Quantity": "40",
+  "Price Per Piece": "100",
+  "SALES": "6089.6",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4290a"
+  },
+  "OrderNumber": "10394",
+  "Quantity": "46",
+  "Price Per Piece": "38.9",
+  "SALES": "1789.4",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4290b"
+  },
+  "OrderNumber": "10412",
+  "Quantity": "30",
+  "Price Per Piece": "36.07",
+  "SALES": "1082.1",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4290c"
+  },
+  "OrderNumber": "10425",
+  "Quantity": "31",
+  "Price Per Piece": "33.24",
+  "SALES": "1030.44",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4290d"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "38",
+  "Price Per Piece": "70.44",
+  "SALES": "2676.72",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4290e"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "39",
+  "Price Per Piece": "55.96",
+  "SALES": "2182.44",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4290f"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "28",
+  "Price Per Piece": "57.55",
+  "SALES": "1611.4",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42910"
+  },
+  "OrderNumber": "10400",
+  "Quantity": "24",
+  "Price Per Piece": "61.66",
+  "SALES": "1479.84",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42911"
+  },
+  "OrderNumber": "10415",
+  "Quantity": "21",
+  "Price Per Piece": "67.82",
+  "SALES": "1424.22",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42912"
+  },
+  "OrderNumber": "10368",
+  "Quantity": "31",
+  "Price Per Piece": "100",
+  "SALES": "4223.13",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42913"
+  },
+  "OrderNumber": "10380",
+  "Quantity": "44",
+  "Price Per Piece": "36.29",
+  "SALES": "1596.76",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42914"
+  },
+  "OrderNumber": "10407",
+  "Quantity": "59",
+  "Price Per Piece": "98.65",
+  "SALES": "5820.35",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42915"
+  },
+  "OrderNumber": "10420",
+  "Quantity": "55",
+  "Price Per Piece": "96.3",
+  "SALES": "5296.5",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42916"
+  },
+  "OrderNumber": "10367",
+  "Quantity": "36",
+  "Price Per Piece": "100",
+  "SALES": "5018.4",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42917"
+  },
+  "OrderNumber": "10378",
+  "Quantity": "41",
+  "Price Per Piece": "100",
+  "SALES": "5856.85",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42918"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "37",
+  "Price Per Piece": "100",
+  "SALES": "4894.73",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42919"
+  },
+  "OrderNumber": "10405",
+  "Quantity": "47",
+  "Price Per Piece": "44.56",
+  "SALES": "2094.32",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4291a"
+  },
+  "OrderNumber": "10419",
+  "Quantity": "15",
+  "Price Per Piece": "42.67",
+  "SALES": "640.05",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4291b"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "33",
+  "Price Per Piece": "57.32",
+  "SALES": "1891.56",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4291c"
+  },
+  "OrderNumber": "10384",
+  "Quantity": "43",
+  "Price Per Piece": "97.87",
+  "SALES": "4208.41",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4291d"
+  },
+  "OrderNumber": "10396",
+  "Quantity": "27",
+  "Price Per Piece": "83.2",
+  "SALES": "2246.4",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4291e"
+  },
+  "OrderNumber": "10414",
+  "Quantity": "60",
+  "Price Per Piece": "100",
+  "SALES": "6107.4",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4291f"
+  },
+  "OrderNumber": "10368",
+  "Quantity": "46",
+  "Price Per Piece": "79.62",
+  "SALES": "3662.52",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42920"
+  },
+  "OrderNumber": "10380",
+  "Quantity": "44",
+  "Price Per Piece": "79.06",
+  "SALES": "3478.64",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42921"
+  },
+  "OrderNumber": "10407",
+  "Quantity": "13",
+  "Price Per Piece": "81.33",
+  "SALES": "1057.29",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42922"
+  },
+  "OrderNumber": "10420",
+  "Quantity": "35",
+  "Price Per Piece": "96.74",
+  "SALES": "3385.9",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42923"
+  },
+  "OrderNumber": "10363",
+  "Quantity": "21",
+  "Price Per Piece": "100",
+  "SALES": "2447.76",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42924"
+  },
+  "OrderNumber": "10378",
+  "Quantity": "46",
+  "Price Per Piece": "41.54",
+  "SALES": "1910.84",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42925"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "46",
+  "Price Per Piece": "52.84",
+  "SALES": "2430.64",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42926"
+  },
+  "OrderNumber": "10419",
+  "Quantity": "55",
+  "Price Per Piece": "52.66",
+  "SALES": "2896.3",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42927"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "46",
+  "Price Per Piece": "66",
+  "SALES": "3036",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42928"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "35",
+  "Price Per Piece": "63.76",
+  "SALES": "2231.6",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42929"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "34",
+  "Price Per Piece": "71.67",
+  "SALES": "2436.78",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4292a"
+  },
+  "OrderNumber": "10400",
+  "Quantity": "38",
+  "Price Per Piece": "57.2",
+  "SALES": "2173.6",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4292b"
+  },
+  "OrderNumber": "10415",
+  "Quantity": "18",
+  "Price Per Piece": "69.7",
+  "SALES": "1254.6",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4292c"
+  },
+  "OrderNumber": "10368",
+  "Quantity": "20",
+  "Price Per Piece": "99.58",
+  "SALES": "1991.6",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4292d"
+  },
+  "OrderNumber": "10380",
+  "Quantity": "34",
+  "Price Per Piece": "100",
+  "SALES": "3953.18",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4292e"
+  },
+  "OrderNumber": "10407",
+  "Quantity": "43",
+  "Price Per Piece": "86.73",
+  "SALES": "3729.39",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4292f"
+  },
+  "OrderNumber": "10420",
+  "Quantity": "26",
+  "Price Per Piece": "100",
+  "SALES": "2617.16",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42930"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "23",
+  "Price Per Piece": "100",
+  "SALES": "2394.3",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42931"
+  },
+  "OrderNumber": "10385",
+  "Quantity": "37",
+  "Price Per Piece": "85.54",
+  "SALES": "3164.98",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42932"
+  },
+  "OrderNumber": "10396",
+  "Quantity": "37",
+  "Price Per Piece": "90.57",
+  "SALES": "3351.09",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42933"
+  },
+  "OrderNumber": "10400",
+  "Quantity": "42",
+  "Price Per Piece": "72.96",
+  "SALES": "3064.32",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42934"
+  },
+  "OrderNumber": "10414",
+  "Quantity": "51",
+  "Price Per Piece": "76.31",
+  "SALES": "3891.81",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42935"
+  },
+  "OrderNumber": "10363",
+  "Quantity": "31",
+  "Price Per Piece": "94.58",
+  "SALES": "2931.98",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42936"
+  },
+  "OrderNumber": "10378",
+  "Quantity": "33",
+  "Price Per Piece": "53.27",
+  "SALES": "1757.91",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42937"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "45",
+  "Price Per Piece": "100",
+  "SALES": "6763.05",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42938"
+  },
+  "OrderNumber": "10405",
+  "Quantity": "76",
+  "Price Per Piece": "100",
+  "SALES": "11739.7",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42939"
+  },
+  "OrderNumber": "10419",
+  "Quantity": "70",
+  "Price Per Piece": "100",
+  "SALES": "9240",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4293a"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "39",
+  "Price Per Piece": "73",
+  "SALES": "2847",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4293b"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "41",
+  "Price Per Piece": "73.32",
+  "SALES": "3006.12",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4293c"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "41",
+  "Price Per Piece": "68.24",
+  "SALES": "2797.84",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4293d"
+  },
+  "OrderNumber": "10401",
+  "Quantity": "64",
+  "Price Per Piece": "60.05",
+  "SALES": "3843.2",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4293e"
+  },
+  "OrderNumber": "10416",
+  "Quantity": "18",
+  "Price Per Piece": "75.06",
+  "SALES": "1351.08",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4293f"
+  },
+  "OrderNumber": "10368",
+  "Quantity": "46",
+  "Price Per Piece": "37.34",
+  "SALES": "1717.64",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42940"
+  },
+  "OrderNumber": "10380",
+  "Quantity": "43",
+  "Price Per Piece": "95.03",
+  "SALES": "4086.29",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42941"
+  },
+  "OrderNumber": "10408",
+  "Quantity": "15",
+  "Price Per Piece": "36.93",
+  "SALES": "553.95",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42942"
+  },
+  "OrderNumber": "10420",
+  "Quantity": "15",
+  "Price Per Piece": "43.49",
+  "SALES": "652.35",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42943"
+  },
+  "OrderNumber": "10371",
+  "Quantity": "28",
+  "Price Per Piece": "50.32",
+  "SALES": "1408.96",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42944"
+  },
+  "OrderNumber": "10383",
+  "Quantity": "21",
+  "Price Per Piece": "93.91",
+  "SALES": "1972.11",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42945"
+  },
+  "OrderNumber": "10394",
+  "Quantity": "37",
+  "Price Per Piece": "100",
+  "SALES": "5207.75",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42946"
+  },
+  "OrderNumber": "10412",
+  "Quantity": "31",
+  "Price Per Piece": "100",
+  "SALES": "4253.2",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42947"
+  },
+  "OrderNumber": "10369",
+  "Quantity": "40",
+  "Price Per Piece": "86.92",
+  "SALES": "3476.8",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42948"
+  },
+  "OrderNumber": "10382",
+  "Quantity": "33",
+  "Price Per Piece": "100",
+  "SALES": "4592.61",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42949"
+  },
+  "OrderNumber": "10423",
+  "Quantity": "28",
+  "Price Per Piece": "78.89",
+  "SALES": "2208.92",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4294a"
+  },
+  "OrderNumber": "10375",
+  "Quantity": "43",
+  "Price Per Piece": "100",
+  "SALES": "10039.6",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4294b"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "50",
+  "Price Per Piece": "63.34",
+  "SALES": "3167",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4294c"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "45",
+  "Price Per Piece": "78.25",
+  "SALES": "3521.25",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4294d"
+  },
+  "OrderNumber": "10401",
+  "Quantity": "52",
+  "Price Per Piece": "81.14",
+  "SALES": "4219.28",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4294e"
+  },
+  "OrderNumber": "10416",
+  "Quantity": "48",
+  "Price Per Piece": "74.62",
+  "SALES": "3581.76",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4294f"
+  },
+  "OrderNumber": "10363",
+  "Quantity": "43",
+  "Price Per Piece": "100",
+  "SALES": "5154.41",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42950"
+  },
+  "OrderNumber": "10378",
+  "Quantity": "41",
+  "Price Per Piece": "100",
+  "SALES": "4894.17",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42951"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "30",
+  "Price Per Piece": "82.42",
+  "SALES": "2472.6",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42952"
+  },
+  "OrderNumber": "10371",
+  "Quantity": "26",
+  "Price Per Piece": "100",
+  "SALES": "4044.04",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42953"
+  },
+  "OrderNumber": "10382",
+  "Quantity": "26",
+  "Price Per Piece": "100",
+  "SALES": "2708.42",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42954"
+  },
+  "OrderNumber": "10411",
+  "Quantity": "26",
+  "Price Per Piece": "100",
+  "SALES": "2904.72",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42955"
+  },
+  "OrderNumber": "10425",
+  "Quantity": "41",
+  "Price Per Piece": "86.68",
+  "SALES": "3553.88",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42956"
+  },
+  "OrderNumber": "10363",
+  "Quantity": "50",
+  "Price Per Piece": "100",
+  "SALES": "6576.5",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42957"
+  },
+  "OrderNumber": "10375",
+  "Quantity": "37",
+  "Price Per Piece": "100",
+  "SALES": "6353.27",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42958"
+  },
+  "OrderNumber": "10387",
+  "Quantity": "44",
+  "Price Per Piece": "94.9",
+  "SALES": "4175.6",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42959"
+  },
+  "OrderNumber": "10401",
+  "Quantity": "49",
+  "Price Per Piece": "100",
+  "SALES": "4992.61",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4295a"
+  },
+  "OrderNumber": "10416",
+  "Quantity": "45",
+  "Price Per Piece": "100",
+  "SALES": "4764.6",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4295b"
+  },
+  "OrderNumber": "10364",
+  "Quantity": "48",
+  "Price Per Piece": "48.28",
+  "SALES": "2317.44",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4295c"
+  },
+  "OrderNumber": "10378",
+  "Quantity": "40",
+  "Price Per Piece": "82.46",
+  "SALES": "3298.4",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4295d"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "41",
+  "Price Per Piece": "44.56",
+  "SALES": "1826.96",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4295e"
+  },
+  "OrderNumber": "10403",
+  "Quantity": "30",
+  "Price Per Piece": "40.23",
+  "SALES": "1206.9",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4295f"
+  },
+  "OrderNumber": "10371",
+  "Quantity": "20",
+  "Price Per Piece": "66.47",
+  "SALES": "1329.4",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42960"
+  },
+  "OrderNumber": "10383",
+  "Quantity": "32",
+  "Price Per Piece": "53.18",
+  "SALES": "1701.76",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42961"
+  },
+  "OrderNumber": "10394",
+  "Quantity": "36",
+  "Price Per Piece": "62.77",
+  "SALES": "2259.72",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42962"
+  },
+  "OrderNumber": "10412",
+  "Quantity": "19",
+  "Price Per Piece": "48.7",
+  "SALES": "925.3",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42963"
+  },
+  "OrderNumber": "10425",
+  "Quantity": "11",
+  "Price Per Piece": "43.83",
+  "SALES": "482.13",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42964"
+  },
+  "OrderNumber": "10371",
+  "Quantity": "30",
+  "Price Per Piece": "99.55",
+  "SALES": "2986.5",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trains",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42965"
+  },
+  "OrderNumber": "10383",
+  "Quantity": "44",
+  "Price Per Piece": "36.07",
+  "SALES": "1587.08",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trains",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42966"
+  },
+  "OrderNumber": "10394",
+  "Quantity": "30",
+  "Price Per Piece": "60.28",
+  "SALES": "1808.4",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trains",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42967"
+  },
+  "OrderNumber": "10413",
+  "Quantity": "24",
+  "Price Per Piece": "49.71",
+  "SALES": "1193.04",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trains",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42968"
+  },
+  "OrderNumber": "10370",
+  "Quantity": "25",
+  "Price Per Piece": "100",
+  "SALES": "3160.25",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42969"
+  },
+  "OrderNumber": "10382",
+  "Quantity": "48",
+  "Price Per Piece": "100",
+  "SALES": "6799.68",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4296a"
+  },
+  "OrderNumber": "10411",
+  "Quantity": "27",
+  "Price Per Piece": "69.16",
+  "SALES": "1867.32",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4296b"
+  },
+  "OrderNumber": "10424",
+  "Quantity": "44",
+  "Price Per Piece": "61.41",
+  "SALES": "2702.04",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4296c"
+  },
+  "OrderNumber": "10375",
+  "Quantity": "44",
+  "Price Per Piece": "82.26",
+  "SALES": "3619.44",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4296d"
+  },
+  "OrderNumber": "10388",
+  "Quantity": "35",
+  "Price Per Piece": "100",
+  "SALES": "3918.95",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4296e"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "22",
+  "Price Per Piece": "67.41",
+  "SALES": "1483.02",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4296f"
+  },
+  "OrderNumber": "10401",
+  "Quantity": "62",
+  "Price Per Piece": "77.73",
+  "SALES": "4819.26",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42970"
+  },
+  "OrderNumber": "10416",
+  "Quantity": "26",
+  "Price Per Piece": "61.22",
+  "SALES": "1591.72",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42971"
+  },
+  "OrderNumber": "10365",
+  "Quantity": "22",
+  "Price Per Piece": "100",
+  "SALES": "3425.18",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42972"
+  },
+  "OrderNumber": "10375",
+  "Quantity": "41",
+  "Price Per Piece": "100",
+  "SALES": "4701.88",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42973"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "45",
+  "Price Per Piece": "48.98",
+  "SALES": "2204.1",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42974"
+  },
+  "OrderNumber": "10403",
+  "Quantity": "45",
+  "Price Per Piece": "100",
+  "SALES": "5189.4",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42975"
+  },
+  "OrderNumber": "10375",
+  "Quantity": "49",
+  "Price Per Piece": "65.8",
+  "SALES": "3224.2",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42976"
+  },
+  "OrderNumber": "10388",
+  "Quantity": "27",
+  "Price Per Piece": "100",
+  "SALES": "3211.38",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42977"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "49",
+  "Price Per Piece": "36.66",
+  "SALES": "1796.34",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42978"
+  },
+  "OrderNumber": "10401",
+  "Quantity": "56",
+  "Price Per Piece": "35.35",
+  "SALES": "1979.6",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42979"
+  },
+  "OrderNumber": "10416",
+  "Quantity": "37",
+  "Price Per Piece": "51.93",
+  "SALES": "1921.41",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Vintage Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4297a"
+  },
+  "OrderNumber": "10371",
+  "Quantity": "48",
+  "Price Per Piece": "56.55",
+  "SALES": "2714.4",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4297b"
+  },
+  "OrderNumber": "10383",
+  "Quantity": "29",
+  "Price Per Piece": "100",
+  "SALES": "3087.05",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4297c"
+  },
+  "OrderNumber": "10395",
+  "Quantity": "46",
+  "Price Per Piece": "100",
+  "SALES": "5692.96",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4297d"
+  },
+  "OrderNumber": "10412",
+  "Quantity": "26",
+  "Price Per Piece": "100",
+  "SALES": "3460.86",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4297e"
+  },
+  "OrderNumber": "10425",
+  "Quantity": "18",
+  "Price Per Piece": "100",
+  "SALES": "1895.94",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trucks and Buses",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4297f"
+  },
+  "OrderNumber": "10372",
+  "Quantity": "24",
+  "Price Per Piece": "58.58",
+  "SALES": "1405.92",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trains",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42980"
+  },
+  "OrderNumber": "10383",
+  "Quantity": "38",
+  "Price Per Piece": "60.06",
+  "SALES": "2282.28",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trains",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42981"
+  },
+  "OrderNumber": "10395",
+  "Quantity": "45",
+  "Price Per Piece": "100",
+  "SALES": "8977.05",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trains",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42982"
+  },
+  "OrderNumber": "10413",
+  "Quantity": "51",
+  "Price Per Piece": "63.85",
+  "SALES": "3256.35",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Trains",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42983"
+  },
+  "OrderNumber": "10365",
+  "Quantity": "44",
+  "Price Per Piece": "100",
+  "SALES": "4984.32",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42984"
+  },
+  "OrderNumber": "10375",
+  "Quantity": "49",
+  "Price Per Piece": "100",
+  "SALES": "5406.66",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42985"
+  },
+  "OrderNumber": "10390",
+  "Quantity": "22",
+  "Price Per Piece": "100",
+  "SALES": "3491.18",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42986"
+  },
+  "OrderNumber": "10403",
+  "Quantity": "31",
+  "Price Per Piece": "68.34",
+  "SALES": "2118.54",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Motorcycles",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42987"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "44",
+  "Price Per Piece": "100",
+  "SALES": "4627.92",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42988"
+  },
+  "OrderNumber": "10385",
+  "Quantity": "25",
+  "Price Per Piece": "77.34",
+  "SALES": "1933.5",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42989"
+  },
+  "OrderNumber": "10396",
+  "Quantity": "39",
+  "Price Per Piece": "66.67",
+  "SALES": "2600.13",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4298a"
+  },
+  "OrderNumber": "10414",
+  "Quantity": "37",
+  "Price Per Piece": "71.34",
+  "SALES": "2639.58",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4298b"
+  },
+  "OrderNumber": "10375",
+  "Quantity": "37",
+  "Price Per Piece": "81.87",
+  "SALES": "3029.19",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4298c"
+  },
+  "OrderNumber": "10388",
+  "Quantity": "46",
+  "Price Per Piece": "100",
+  "SALES": "10066.6",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4298d"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "47",
+  "Price Per Piece": "87.69",
+  "SALES": "4121.43",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4298e"
+  },
+  "OrderNumber": "10401",
+  "Quantity": "11",
+  "Price Per Piece": "100",
+  "SALES": "1135.31",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4298f"
+  },
+  "OrderNumber": "10416",
+  "Quantity": "23",
+  "Price Per Piece": "91.34",
+  "SALES": "2100.82",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42990"
+  },
+  "OrderNumber": "10372",
+  "Quantity": "44",
+  "Price Per Piece": "100",
+  "SALES": "4496.8",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42991"
+  },
+  "OrderNumber": "10384",
+  "Quantity": "49",
+  "Price Per Piece": "100",
+  "SALES": "6397.44",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42992"
+  },
+  "OrderNumber": "10397",
+  "Quantity": "32",
+  "Price Per Piece": "80.55",
+  "SALES": "2577.6",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42993"
+  },
+  "OrderNumber": "10414",
+  "Quantity": "34",
+  "Price Per Piece": "100",
+  "SALES": "3533.62",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42994"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "32",
+  "Price Per Piece": "84.41",
+  "SALES": "2701.12",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42995"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "29",
+  "Price Per Piece": "85.76",
+  "SALES": "2487.04",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42996"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "36",
+  "Price Per Piece": "100",
+  "SALES": "3910.32",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42997"
+  },
+  "OrderNumber": "10400",
+  "Quantity": "46",
+  "Price Per Piece": "87.8",
+  "SALES": "4038.8",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42998"
+  },
+  "OrderNumber": "10415",
+  "Quantity": "32",
+  "Price Per Piece": "95.95",
+  "SALES": "3070.4",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca42999"
+  },
+  "OrderNumber": "10375",
+  "Quantity": "33",
+  "Price Per Piece": "100",
+  "SALES": "3856.71",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4299a"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "37",
+  "Price Per Piece": "83.84",
+  "SALES": "3102.08",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4299b"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "22",
+  "Price Per Piece": "86.76",
+  "SALES": "1908.72",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4299c"
+  },
+  "OrderNumber": "10401",
+  "Quantity": "85",
+  "Price Per Piece": "88.75",
+  "SALES": "7543.75",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4299d"
+  },
+  "OrderNumber": "10416",
+  "Quantity": "22",
+  "Price Per Piece": "100",
+  "SALES": "2457.18",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4299e"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "41",
+  "Price Per Piece": "70.33",
+  "SALES": "2883.53",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca4299f"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "37",
+  "Price Per Piece": "100",
+  "SALES": "5017.57",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429a0"
+  },
+  "OrderNumber": "10397",
+  "Quantity": "22",
+  "Price Per Piece": "66.5",
+  "SALES": "1463",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429a1"
+  },
+  "OrderNumber": "10414",
+  "Quantity": "31",
+  "Price Per Piece": "75.89",
+  "SALES": "2352.59",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429a2"
+  },
+  "OrderNumber": "10371",
+  "Quantity": "34",
+  "Price Per Piece": "100",
+  "SALES": "4301.34",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429a3"
+  },
+  "OrderNumber": "10382",
+  "Quantity": "34",
+  "Price Per Piece": "54.84",
+  "SALES": "1864.56",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429a4"
+  },
+  "OrderNumber": "10411",
+  "Quantity": "34",
+  "Price Per Piece": "100",
+  "SALES": "3576.8",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429a5"
+  },
+  "OrderNumber": "10424",
+  "Quantity": "46",
+  "Price Per Piece": "80.92",
+  "SALES": "3722.32",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Classic Cars",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429a6"
+  },
+  "OrderNumber": "10375",
+  "Quantity": "25",
+  "Price Per Piece": "66.73",
+  "SALES": "1668.25",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429a7"
+  },
+  "OrderNumber": "10388",
+  "Quantity": "50",
+  "Price Per Piece": "100",
+  "SALES": "7154.5",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429a8"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "23",
+  "Price Per Piece": "100",
+  "SALES": "2810.83",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429a9"
+  },
+  "OrderNumber": "10401",
+  "Quantity": "21",
+  "Price Per Piece": "96.11",
+  "SALES": "2018.31",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429aa"
+  },
+  "OrderNumber": "10416",
+  "Quantity": "41",
+  "Price Per Piece": "100",
+  "SALES": "5642.83",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429ab"
+  },
+  "OrderNumber": "10375",
+  "Quantity": "44",
+  "Price Per Piece": "100",
+  "SALES": "5208.72",
+  "MONTH_ID": "2",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429ac"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "32",
+  "Price Per Piece": "94.34",
+  "SALES": "3018.88",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429ad"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "29",
+  "Price Per Piece": "65.6",
+  "SALES": "1902.4",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429ae"
+  },
+  "OrderNumber": "10401",
+  "Quantity": "77",
+  "Price Per Piece": "92",
+  "SALES": "7084",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Large"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429af"
+  },
+  "OrderNumber": "10416",
+  "Quantity": "39",
+  "Price Per Piece": "67.2",
+  "SALES": "2620.8",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429b0"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "34",
+  "Price Per Piece": "96.34",
+  "SALES": "3275.56",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429b1"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "45",
+  "Price Per Piece": "92.08",
+  "SALES": "4143.6",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429b2"
+  },
+  "OrderNumber": "10397",
+  "Quantity": "48",
+  "Price Per Piece": "100",
+  "SALES": "5192.64",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429b3"
+  },
+  "OrderNumber": "10414",
+  "Quantity": "28",
+  "Price Per Piece": "100",
+  "SALES": "3029.04",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429b4"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "37",
+  "Price Per Piece": "100",
+  "SALES": "4025.6",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429b5"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "30",
+  "Price Per Piece": "95.48",
+  "SALES": "2864.4",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429b6"
+  },
+  "OrderNumber": "10397",
+  "Quantity": "36",
+  "Price Per Piece": "100",
+  "SALES": "3789.72",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429b7"
+  },
+  "OrderNumber": "10414",
+  "Quantity": "27",
+  "Price Per Piece": "90.37",
+  "SALES": "2439.99",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429b8"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "45",
+  "Price Per Piece": "55.62",
+  "SALES": "2502.9",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429b9"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "44",
+  "Price Per Piece": "86.4",
+  "SALES": "3801.6",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429ba"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "36",
+  "Price Per Piece": "87.36",
+  "SALES": "3144.96",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429bb"
+  },
+  "OrderNumber": "10401",
+  "Quantity": "28",
+  "Price Per Piece": "72.55",
+  "SALES": "2031.4",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429bc"
+  },
+  "OrderNumber": "10416",
+  "Quantity": "43",
+  "Price Per Piece": "62.19",
+  "SALES": "2674.17",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429bd"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "25",
+  "Price Per Piece": "64.97",
+  "SALES": "1624.25",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429be"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "50",
+  "Price Per Piece": "87.15",
+  "SALES": "4357.5",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429bf"
+  },
+  "OrderNumber": "10398",
+  "Quantity": "34",
+  "Price Per Piece": "40.22",
+  "SALES": "1367.48",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429c0"
+  },
+  "OrderNumber": "10400",
+  "Quantity": "20",
+  "Price Per Piece": "56.12",
+  "SALES": "1122.4",
+  "MONTH_ID": "4",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429c1"
+  },
+  "OrderNumber": "10415",
+  "Quantity": "42",
+  "Price Per Piece": "57.61",
+  "SALES": "2419.62",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Planes",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429c2"
+  },
+  "OrderNumber": "10373",
+  "Quantity": "29",
+  "Price Per Piece": "100",
+  "SALES": "3978.51",
+  "MONTH_ID": "1",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429c3"
+  },
+  "OrderNumber": "10386",
+  "Quantity": "43",
+  "Price Per Piece": "100",
+  "SALES": "5417.57",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429c4"
+  },
+  "OrderNumber": "10397",
+  "Quantity": "34",
+  "Price Per Piece": "62.24",
+  "SALES": "2116.16",
+  "MONTH_ID": "3",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Small"
+},{
+  "_id": {
+    "$oid": "603abe465626a6044ca429c5"
+  },
+  "OrderNumber": "10414",
+  "Quantity": "47",
+  "Price Per Piece": "65.52",
+  "SALES": "3079.44",
+  "MONTH_ID": "5",
+  "YEAR_ID": "2005",
+  "PRODUCTLINE": "Ships",
+  "DEALSIZE": "Medium"
+}]
